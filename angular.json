@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "Mearn-app-new"
+  "defaultProject": "Mearn-app-new",
+  "cli": {
+    "analytics": false
+  }
 }
